@@ -58,6 +58,7 @@ dependencies:
   avatar_glow: ^2.0.2
   flutter_share: ^2.0.0
   path_provider: ^2.0.15
+  
   path: ^1.8.2
   html: ^0.15.4
   social_share: ^2.3.1
@@ -89,6 +90,7 @@ dependencies:
   paytm_allinonesdk: ^1.2.2
   better_player: ^0.0.83
   pod_player: ^0.1.5
+  fwfh_text_style: ^2.22.8+3
 
 dependency_overrides:
   webview_flutter_wkwebview: '3.5.0'
