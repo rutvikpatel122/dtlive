@@ -275,7 +275,8 @@ class MovieDetailsState extends State<MovieDetails> with RouteAware {
     }
     _port.listen((dynamic data) {
       final taskId = (data as List<dynamic>)[0] as String;
-      final status = DownloadTaskStatus(data[1] as int);
+      final status = DownloadTaskStatus.fromInt(data[1] as int);
+;
       final progress = data[2] as int;
 
       log(
