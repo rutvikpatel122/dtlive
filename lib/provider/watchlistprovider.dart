@@ -1,10 +1,10 @@
 import 'dart:developer';
 
-import 'package:portfolio/model/successmodel.dart';
-import 'package:portfolio/model/watchlistmodel.dart';
-import 'package:portfolio/utils/constant.dart';
-import 'package:portfolio/utils/utils.dart';
-import 'package:portfolio/webservice/apiservices.dart';
+import 'package:dtlive/model/successmodel.dart';
+import 'package:dtlive/model/watchlistmodel.dart';
+import 'package:dtlive/utils/constant.dart';
+import 'package:dtlive/utils/utils.dart';
+import 'package:dtlive/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class WatchlistProvider extends ChangeNotifier {

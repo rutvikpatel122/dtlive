@@ -1,5 +1,5 @@
-import 'package:portfolio/model/sectiontypemodel.dart';
-import 'package:portfolio/webservice/apiservices.dart';
+import 'package:dtlive/model/sectiontypemodel.dart';
+import 'package:dtlive/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class HomeProvider extends ChangeNotifier {

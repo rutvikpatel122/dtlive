@@ -1,16 +1,16 @@
 import 'dart:developer';
 
 import 'package:avatar_glow/avatar_glow.dart';
-import 'package:portfolio/pages/search.dart';
-import 'package:portfolio/pages/sectionbytype.dart';
-import 'package:portfolio/pages/videosbyid.dart';
-import 'package:portfolio/provider/findprovider.dart';
-import 'package:portfolio/shimmer/shimmerutils.dart';
-import 'package:portfolio/utils/color.dart';
-import 'package:portfolio/utils/strings.dart';
-import 'package:portfolio/utils/utils.dart';
-import 'package:portfolio/widget/myimage.dart';
-import 'package:portfolio/widget/mytext.dart';
+import 'package:dtlive/pages/search.dart';
+import 'package:dtlive/pages/sectionbytype.dart';
+import 'package:dtlive/pages/videosbyid.dart';
+import 'package:dtlive/provider/findprovider.dart';
+import 'package:dtlive/shimmer/shimmerutils.dart';
+import 'package:dtlive/utils/color.dart';
+import 'package:dtlive/utils/strings.dart';
+import 'package:dtlive/utils/utils.dart';
+import 'package:dtlive/widget/myimage.dart';
+import 'package:dtlive/widget/mytext.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:provider/provider.dart';

@@ -1,7 +1,7 @@
 import 'dart:developer';
 
-import 'package:portfolio/model/successmodel.dart';
-import 'package:portfolio/webservice/apiservices.dart';
+import 'package:dtlive/model/successmodel.dart';
+import 'package:dtlive/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class PlayerProvider extends ChangeNotifier {

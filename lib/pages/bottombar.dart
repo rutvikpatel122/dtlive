@@ -1,13 +1,13 @@
 import 'dart:io';
 
-import 'package:portfolio/pages/channels.dart';
-import 'package:portfolio/pages/find.dart';
-import 'package:portfolio/pages/home.dart';
-import 'package:portfolio/pages/setting.dart';
-import 'package:portfolio/pages/rentstore.dart';
-import 'package:portfolio/utils/color.dart';
-import 'package:portfolio/utils/strings.dart';
-import 'package:portfolio/utils/utils.dart';
+import 'package:dtlive/pages/channels.dart';
+import 'package:dtlive/pages/find.dart';
+import 'package:dtlive/pages/home.dart';
+import 'package:dtlive/pages/setting.dart';
+import 'package:dtlive/pages/rentstore.dart';
+import 'package:dtlive/utils/color.dart';
+import 'package:dtlive/utils/strings.dart';
+import 'package:dtlive/utils/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';

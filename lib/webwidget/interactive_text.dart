@@ -1,5 +1,5 @@
-import 'package:portfolio/utils/color.dart';
-import 'package:portfolio/widget/mytext.dart';
+import 'package:dtlive/utils/color.dart';
+import 'package:dtlive/widget/mytext.dart';
 import 'package:flutter/material.dart';
 
 class InteractiveText extends StatefulWidget {

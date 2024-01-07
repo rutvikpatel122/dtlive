@@ -1,17 +1,17 @@
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:portfolio/provider/profileprovider.dart';
-import 'package:portfolio/widget/myimage.dart';
-import 'package:portfolio/widget/mynetworkimg.dart';
-import 'package:portfolio/widget/mytextformfield.dart';
+import 'package:dtlive/provider/profileprovider.dart';
+import 'package:dtlive/widget/myimage.dart';
+import 'package:dtlive/widget/mynetworkimg.dart';
+import 'package:dtlive/widget/mytextformfield.dart';
 import 'package:flutter/material.dart';
 
-import 'package:portfolio/utils/color.dart';
-import 'package:portfolio/utils/sharedpre.dart';
-import 'package:portfolio/utils/strings.dart';
-import 'package:portfolio/utils/utils.dart';
-import 'package:portfolio/widget/mytext.dart';
+import 'package:dtlive/utils/color.dart';
+import 'package:dtlive/utils/sharedpre.dart';
+import 'package:dtlive/utils/strings.dart';
+import 'package:dtlive/utils/utils.dart';
+import 'package:dtlive/widget/mytext.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';
 

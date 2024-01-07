@@ -1,4 +1,4 @@
-import 'package:portfolio/model/downloadvideomodel.dart';
+import 'package:dtlive/model/downloadvideomodel.dart';
 
 class ItemHolder {
   ItemHolder({this.name, this.task});

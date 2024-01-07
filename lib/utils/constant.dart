@@ -1,4 +1,4 @@
-import 'package:portfolio/model/subtitlemodel.dart';
+import 'package:dtlive/model/subtitlemodel.dart';
 
 class Constant {
   static const String baseurl = 'https://admin.8gliv.in/public/api/';

@@ -1,9 +1,9 @@
-import 'package:portfolio/provider/avatarprovider.dart';
-import 'package:portfolio/shimmer/shimmerutils.dart';
-import 'package:portfolio/utils/color.dart';
-import 'package:portfolio/utils/utils.dart';
-import 'package:portfolio/widget/myusernetworkimg.dart';
-import 'package:portfolio/widget/nodata.dart';
+import 'package:dtlive/provider/avatarprovider.dart';
+import 'package:dtlive/shimmer/shimmerutils.dart';
+import 'package:dtlive/utils/color.dart';
+import 'package:dtlive/utils/utils.dart';
+import 'package:dtlive/widget/myusernetworkimg.dart';
+import 'package:dtlive/widget/nodata.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:provider/provider.dart';

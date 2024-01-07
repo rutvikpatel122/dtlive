@@ -1,5 +1,5 @@
-import 'package:portfolio/utils/utils.dart';
-import 'package:portfolio/widget/mynetworkimg.dart';
+import 'package:dtlive/utils/utils.dart';
+import 'package:dtlive/widget/mynetworkimg.dart';
 import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable

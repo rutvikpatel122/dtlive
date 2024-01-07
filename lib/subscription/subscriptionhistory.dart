@@ -1,10 +1,10 @@
-import 'package:portfolio/provider/subhistoryprovider.dart';
-import 'package:portfolio/shimmer/shimmerutils.dart';
-import 'package:portfolio/utils/color.dart';
-import 'package:portfolio/utils/dimens.dart';
-import 'package:portfolio/utils/utils.dart';
-import 'package:portfolio/widget/mytext.dart';
-import 'package:portfolio/widget/nodata.dart';
+import 'package:dtlive/provider/subhistoryprovider.dart';
+import 'package:dtlive/shimmer/shimmerutils.dart';
+import 'package:dtlive/utils/color.dart';
+import 'package:dtlive/utils/dimens.dart';
+import 'package:dtlive/utils/utils.dart';
+import 'package:dtlive/widget/mytext.dart';
+import 'package:dtlive/widget/nodata.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:provider/provider.dart';

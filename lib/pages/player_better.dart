@@ -1,10 +1,10 @@
 import 'dart:developer';
 
 import 'package:better_player/better_player.dart';
-import 'package:portfolio/provider/playerprovider.dart';
-import 'package:portfolio/utils/color.dart';
-import 'package:portfolio/utils/constant.dart';
-import 'package:portfolio/utils/utils.dart';
+import 'package:dtlive/provider/playerprovider.dart';
+import 'package:dtlive/utils/color.dart';
+import 'package:dtlive/utils/constant.dart';
+import 'package:dtlive/utils/utils.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

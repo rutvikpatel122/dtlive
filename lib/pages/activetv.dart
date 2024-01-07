@@ -1,11 +1,11 @@
 import 'dart:developer';
 
-import 'package:portfolio/provider/generalprovider.dart';
-import 'package:portfolio/utils/color.dart';
-import 'package:portfolio/utils/sharedpre.dart';
-import 'package:portfolio/widget/myimage.dart';
-import 'package:portfolio/widget/mytext.dart';
-import 'package:portfolio/utils/utils.dart';
+import 'package:dtlive/provider/generalprovider.dart';
+import 'package:dtlive/utils/color.dart';
+import 'package:dtlive/utils/sharedpre.dart';
+import 'package:dtlive/widget/myimage.dart';
+import 'package:dtlive/widget/mytext.dart';
+import 'package:dtlive/utils/utils.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:pinput/pinput.dart';
 import 'package:progress_dialog_null_safe/progress_dialog_null_safe.dart';

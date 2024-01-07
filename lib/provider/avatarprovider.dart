@@ -1,5 +1,5 @@
-import 'package:portfolio/model/avatarmodel.dart';
-import 'package:portfolio/webservice/apiservices.dart';
+import 'package:dtlive/model/avatarmodel.dart';
+import 'package:dtlive/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class AvatarProvider extends ChangeNotifier {

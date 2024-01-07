@@ -1,5 +1,5 @@
-import 'package:portfolio/model/castdetailmodel.dart';
-import 'package:portfolio/webservice/apiservices.dart';
+import 'package:dtlive/model/castdetailmodel.dart';
+import 'package:dtlive/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class CastDetailsProvider extends ChangeNotifier {
