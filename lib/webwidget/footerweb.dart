@@ -1,15 +1,15 @@
-import 'package:dtlive/provider/generalprovider.dart';
-import 'package:dtlive/utils/color.dart';
-import 'package:dtlive/utils/constant.dart';
-import 'package:dtlive/utils/dimens.dart';
-import 'package:dtlive/utils/sharedpre.dart';
-import 'package:dtlive/web_js/js_helper.dart';
-import 'package:dtlive/webwidget/interactive_networkicon.dart';
-import 'package:dtlive/widget/myimage.dart';
-import 'package:dtlive/widget/mytext.dart';
+import 'package:portfolio/provider/generalprovider.dart';
+import 'package:portfolio/utils/color.dart';
+import 'package:portfolio/utils/constant.dart';
+import 'package:portfolio/utils/dimens.dart';
+import 'package:portfolio/utils/sharedpre.dart';
+import 'package:portfolio/web_js/js_helper.dart';
+import 'package:portfolio/webwidget/interactive_networkicon.dart';
+import 'package:portfolio/widget/myimage.dart';
+import 'package:portfolio/widget/mytext.dart';
 import 'package:flutter/material.dart';
-import 'package:dtlive/webwidget/interactive_icon.dart';
-import 'package:dtlive/webwidget/interactive_text.dart';
+import 'package:portfolio/webwidget/interactive_icon.dart';
+import 'package:portfolio/webwidget/interactive_text.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:provider/provider.dart';
 

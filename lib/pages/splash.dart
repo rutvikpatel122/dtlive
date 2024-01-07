@@ -1,13 +1,13 @@
 import 'dart:developer';
 
-import 'package:dtlive/pages/bottombar.dart';
-import 'package:dtlive/pages/intro.dart';
-import 'package:dtlive/provider/homeprovider.dart';
-import 'package:dtlive/tvpages/tvhome.dart';
-import 'package:dtlive/utils/color.dart';
-import 'package:dtlive/utils/constant.dart';
-import 'package:dtlive/widget/myimage.dart';
-import 'package:dtlive/utils/sharedpre.dart';
+import 'package:portfolio/pages/bottombar.dart';
+import 'package:portfolio/pages/intro.dart';
+import 'package:portfolio/provider/homeprovider.dart';
+import 'package:portfolio/tvpages/tvhome.dart';
+import 'package:portfolio/utils/color.dart';
+import 'package:portfolio/utils/constant.dart';
+import 'package:portfolio/widget/myimage.dart';
+import 'package:portfolio/utils/sharedpre.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

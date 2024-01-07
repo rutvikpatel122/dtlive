@@ -1,5 +1,5 @@
-import 'package:dtlive/model/episodebyseasonmodel.dart';
-import 'package:dtlive/webservice/apiservices.dart';
+import 'package:portfolio/model/episodebyseasonmodel.dart';
+import 'package:portfolio/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class EpisodeProvider extends ChangeNotifier {

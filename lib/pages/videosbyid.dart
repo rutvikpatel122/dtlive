@@ -1,14 +1,14 @@
 import 'dart:async';
 import 'dart:developer';
 
-import 'package:dtlive/shimmer/shimmerutils.dart';
-import 'package:dtlive/utils/dimens.dart';
-import 'package:dtlive/utils/utils.dart';
-import 'package:dtlive/webwidget/footerweb.dart';
-import 'package:dtlive/widget/nodata.dart';
-import 'package:dtlive/provider/videobyidprovider.dart';
-import 'package:dtlive/utils/color.dart';
-import 'package:dtlive/widget/mynetworkimg.dart';
+import 'package:portfolio/shimmer/shimmerutils.dart';
+import 'package:portfolio/utils/dimens.dart';
+import 'package:portfolio/utils/utils.dart';
+import 'package:portfolio/webwidget/footerweb.dart';
+import 'package:portfolio/widget/nodata.dart';
+import 'package:portfolio/provider/videobyidprovider.dart';
+import 'package:portfolio/utils/color.dart';
+import 'package:portfolio/widget/mynetworkimg.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

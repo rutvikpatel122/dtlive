@@ -1,11 +1,11 @@
 import 'dart:io';
 
-import 'package:dtlive/model/generalsettingmodel.dart';
-import 'package:dtlive/model/loginregistermodel.dart';
-import 'package:dtlive/model/pagesmodel.dart';
-import 'package:dtlive/model/sociallinkmodel.dart';
-import 'package:dtlive/utils/sharedpre.dart';
-import 'package:dtlive/webservice/apiservices.dart';
+import 'package:portfolio/model/generalsettingmodel.dart';
+import 'package:portfolio/model/loginregistermodel.dart';
+import 'package:portfolio/model/pagesmodel.dart';
+import 'package:portfolio/model/sociallinkmodel.dart';
+import 'package:portfolio/utils/sharedpre.dart';
+import 'package:portfolio/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class GeneralProvider extends ChangeNotifier {

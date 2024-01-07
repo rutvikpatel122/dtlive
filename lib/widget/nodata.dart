@@ -1,6 +1,6 @@
-import 'package:dtlive/utils/color.dart';
-import 'package:dtlive/widget/myimage.dart';
-import 'package:dtlive/widget/mytext.dart';
+import 'package:portfolio/utils/color.dart';
+import 'package:portfolio/widget/myimage.dart';
+import 'package:portfolio/widget/mytext.dart';
 import 'package:flutter/material.dart';
 
 class NoData extends StatelessWidget {

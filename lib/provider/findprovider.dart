@@ -1,11 +1,11 @@
 import 'dart:developer';
 
-import 'package:dtlive/model/genresmodel.dart';
-import 'package:dtlive/model/langaugemodel.dart';
-import 'package:dtlive/model/sectiontypemodel.dart';
-import 'package:dtlive/model/successmodel.dart';
-import 'package:dtlive/utils/sharedpre.dart';
-import 'package:dtlive/webservice/apiservices.dart';
+import 'package:portfolio/model/genresmodel.dart';
+import 'package:portfolio/model/langaugemodel.dart';
+import 'package:portfolio/model/sectiontypemodel.dart';
+import 'package:portfolio/model/successmodel.dart';
+import 'package:portfolio/utils/sharedpre.dart';
+import 'package:portfolio/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class FindProvider extends ChangeNotifier {

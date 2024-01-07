@@ -1,9 +1,9 @@
 import 'package:carousel_indicator/carousel_indicator.dart';
-import 'package:dtlive/utils/color.dart';
-import 'package:dtlive/utils/constant.dart';
-import 'package:dtlive/utils/dimens.dart';
-import 'package:dtlive/shimmer/shimmerwidget.dart';
-import 'package:dtlive/utils/utils.dart';
+import 'package:portfolio/utils/color.dart';
+import 'package:portfolio/utils/constant.dart';
+import 'package:portfolio/utils/dimens.dart';
+import 'package:portfolio/shimmer/shimmerwidget.dart';
+import 'package:portfolio/utils/utils.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';

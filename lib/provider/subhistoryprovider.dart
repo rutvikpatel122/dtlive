@@ -1,5 +1,5 @@
-import 'package:dtlive/model/historymodel.dart';
-import 'package:dtlive/webservice/apiservices.dart';
+import 'package:portfolio/model/historymodel.dart';
+import 'package:portfolio/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class SubHistoryProvider extends ChangeNotifier {

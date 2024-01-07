@@ -1,9 +1,9 @@
 import 'dart:developer';
 
-import 'package:dtlive/model/sectiondetailmodel.dart';
-import 'package:dtlive/model/successmodel.dart';
-import 'package:dtlive/utils/utils.dart';
-import 'package:dtlive/webservice/apiservices.dart';
+import 'package:portfolio/model/sectiondetailmodel.dart';
+import 'package:portfolio/model/successmodel.dart';
+import 'package:portfolio/utils/utils.dart';
+import 'package:portfolio/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_downloader/flutter_downloader.dart';
 

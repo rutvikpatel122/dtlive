@@ -1,8 +1,8 @@
 import 'dart:developer';
 
-import 'package:dtlive/model/rentmodel.dart';
-import 'package:dtlive/utils/constant.dart';
-import 'package:dtlive/webservice/apiservices.dart';
+import 'package:portfolio/model/rentmodel.dart';
+import 'package:portfolio/utils/constant.dart';
+import 'package:portfolio/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class RentStoreProvider extends ChangeNotifier {

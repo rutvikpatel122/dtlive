@@ -1,7 +1,7 @@
-import 'package:dtlive/model/profilemodel.dart';
-import 'package:dtlive/model/successmodel.dart';
-import 'package:dtlive/utils/constant.dart';
-import 'package:dtlive/webservice/apiservices.dart';
+import 'package:portfolio/model/profilemodel.dart';
+import 'package:portfolio/model/successmodel.dart';
+import 'package:portfolio/utils/constant.dart';
+import 'package:portfolio/webservice/apiservices.dart';
 import 'package:flutter/material.dart';
 
 class ProfileProvider extends ChangeNotifier {
