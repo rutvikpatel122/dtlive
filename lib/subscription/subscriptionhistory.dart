@@ -229,8 +229,7 @@ class _SubscriptionHistoryState extends State<SubscriptionHistory> {
                             .historyModel.result?[position].expiryDate ??
                         ""))
                     ? complimentryColor
-                    : */
-                primaryColor,
+                    : */ primaryColor,
                 white,
                 15,
                 0.5),
@@ -241,14 +240,12 @@ class _SubscriptionHistoryState extends State<SubscriptionHistory> {
                           .historyModel.result?[position].expiryDate ??
                       ""))
                   ? white
-                  :  */
-                  black,
+                  :  */black,
               text: /* DateTime.now().isBefore(DateTime.parse(subHistoryProvider
                           .historyModel.result?[position].expiryDate ??
                       ""))
                   ? "current"
-                  :  */
-                  "expired",
+                  :  */"expired",
               multilanguage: true,
               textalign: TextAlign.center,
               maxline: 1,

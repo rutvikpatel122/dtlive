@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.8gliv.ott">
+    package="com.divinetechs.dtlive">
 
     <uses-feature
         android:name="android.hardware.camera2.full"
@@ -40,7 +40,7 @@
         android:required="false"/>
 
    <application
-        android:label="8GLiv"
+        android:label="DTLive"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         android:banner="@drawable/banner"

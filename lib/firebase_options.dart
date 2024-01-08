@@ -71,6 +71,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'primevideoapp-43bf6.appspot.com',
     androidClientId: '346606981660-150eiiccap50sdco81aaj0av5lgn59us.apps.googleusercontent.com',
     iosClientId: '346606981660-rcf3siicukjvl2nlqtafb26ufs6mumc5.apps.googleusercontent.com',
-    iosBundleId: 'com.8gliv.ottapp',
+    iosBundleId: 'com.divinetechs.dtliveapp',
   );
 }

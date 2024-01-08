@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 
-const primaryColor = Color(0xffF2B611);
+const primaryColor = Color(0xffbafa34);
 const primaryDarkColor = Color(0xff0e0e16);
 const accentColor = Color(0xffffffff);
 
 const complimentryColor = Color(0xffFA3457);
-const primaryLight = Color(0xfffac961);
-const primaryDark = Color(0xffe3b146);
-const primaryTras75 = Color(0xBFdba839);
-const primaryTras50 = Color(0x80c79322);
-const primaryTras25 = Color(0x40bf880f);
-const primaryTras10 = Color(0x1Aa87402);
-const primaryTras5 = Color(0x0D855b01);
+const primaryLight = Color(0xffc8f85d);
+const primaryDark = Color(0xff78a026);
+const primaryTras75 = Color(0xBFbafa34);
+const primaryTras50 = Color(0x80bafa34);
+const primaryTras25 = Color(0x40bafa34);
+const primaryTras10 = Color(0x1Abafa34);
+const primaryTras5 = Color(0x0Dbafa34);
 
 const appBgColor = Color(0xFF000000);
 const dotsDefaultColor = Color(0xFF2D2D2D);

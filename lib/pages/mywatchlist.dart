@@ -995,8 +995,7 @@ class _MyWatchlistState extends State<MyWatchlist> {
   openPlayer(playType, position) async {
     /* CHECK SUBSCRIPTION */
     if (playType != "Trailer") {
-      bool? isPrimiumUser = true;
-      // await _checkSubsRentLogin(position);
+      bool? isPrimiumUser = await _checkSubsRentLogin(position);
       log("isPrimiumUser =============> $isPrimiumUser");
       if (!isPrimiumUser) return;
     }

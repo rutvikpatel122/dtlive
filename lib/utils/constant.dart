@@ -1,10 +1,11 @@
 import 'package:dtlive/model/subtitlemodel.dart';
 
 class Constant {
-  static const String baseurl = 'https://admin.8gliv.in/public/api/';
+  static const String baseurl =
+      'http://192.168.116.146/admin_panel/public/api/';
 
-  static String? appName = "8GLiv";
-  static String? appPackageName = "com.8gliv.ott";
+  static String? appName = "DTLive";
+  static String? appPackageName = "com.divinetechs.dtlive";
   static String? appleAppId = "6449380090";
   static String? appVersion = "1";
   static String? appBuildNumber = "1.0";

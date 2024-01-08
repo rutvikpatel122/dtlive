@@ -275,7 +275,7 @@ class MovieDetailsState extends State<MovieDetails> with RouteAware {
     }
     _port.listen((dynamic data) {
       final taskId = (data as List<dynamic>)[0] as String;
-      final status = DownloadTaskStatus.fromInt(data[1] as int);
+      final status = DownloadTaskStatus.fromInt((data[1] as int));
       final progress = data[2] as int;
 
       log(
@@ -3605,9 +3605,7 @@ class MovieDetailsState extends State<MovieDetails> with RouteAware {
   openPlayer(String playType) async {
     /* CHECK SUBSCRIPTION */
     if (playType != "Trailer") {
-            bool? isPrimiumUser = true;
-      // await _checkSubsRentLogin(position);
-      // bool? isPrimiumUser = await _checkSubsRentLogin();
+      bool? isPrimiumUser = await _checkSubsRentLogin();
       log("isPrimiumUser =============> $isPrimiumUser");
       if (!isPrimiumUser) return;
     }

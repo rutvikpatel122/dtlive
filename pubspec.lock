@@ -60,11 +60,10 @@ packages:
   better_player:
     dependency: "direct main"
     description:
-      name: better_player
-      sha256: f2e5d57ea49fb7c4d93838d23846ca5ddf78af6f946e103aeacf2afdd01909b3
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.83"
+      path: "packages/betterplayer"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   boolean_selector:
     dependency: transitive
     description:
@@ -422,6 +421,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.5.0"
+  flutter_dotenv:
+    dependency: "direct main"
+    description:
+      name: flutter_dotenv
+      sha256: "9357883bdd153ab78cbf9ffa07656e336b8bbb2b5a3ca596b0b27e119f7c7d77"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.1.0"
   flutter_downloader:
     dependency: "direct main"
     description:
@@ -638,7 +645,7 @@ packages:
     source: hosted
     version: "2.4.1"
   fwfh_text_style:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: fwfh_text_style
       sha256: f0883ccb64b7bb3f2a7a091542c2e834fc3e2a6aa54158f46b3c43b55675d8f7
@@ -1192,11 +1199,10 @@ packages:
   pod_player:
     dependency: "direct main"
     description:
-      name: pod_player
-      sha256: e2c4eb9c9f48645fffb96862ed23237865be0262d780f0c603ac37f2bba3f1b5
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.5"
+      path: "packages/podplayer"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   pretty_dio_logger:
     dependency: "direct main"
     description:

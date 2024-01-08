@@ -2991,8 +2991,7 @@ class TVShowDetailsState extends State<TVShowDetails> {
 
     /* CHECK SUBSCRIPTION */
     if (playType != "Trailer") {
-      bool? isPrimiumUser = true;
-      // await _checkSubsRentLogin(position);
+      bool? isPrimiumUser = await _checkSubsRentLogin();
       log("isPrimiumUser =============> $isPrimiumUser");
       if (!isPrimiumUser) return;
     }
